@@ -1,0 +1,58 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "mobile": "+919894959692",
+      "username": "Arun K",
+      "place": "kothamangalam",
+      "profile": "https://i.postimg.cc/1XwPVCqp/Untitled.png",
+      "email": "arun123@gmail.com",
+      "address": "North West pin: 667839"
+    },
+    {
+      "id": 2,
+      "mobile": "+919889077692",
+      "username": "Anu M",
+      "place": "Kochi",
+      "profile": "https://i.postimg.cc/dQbVQdy2/img-avatar2.png",
+      "email": "anum@gmail.com",
+      "address": "South West pin: 893256"
+    },
+    {
+      "id": 3,
+      "mobile": "+919800096921",
+      "username": "Anujith",
+      "place": "Elappara",
+      "profile": "https://i.postimg.cc/XYDh3KZ3/user-kids-avatar-user-profile-icon-149314.png",
+      "email": "anujith@gmail.com",
+      "address": "elappara house pin: 894323"
+    },
+    {
+      "id": 4,
+      "mobile": "+919932009692",
+      "username": "Vishnu D",
+      "place": "coimbatore",
+      "profile": "https://i.postimg.cc/501kpsvW/images.png",
+      "email": "vishnu@gmail.com",
+      "address": "East fort pin: 903455"
+    },
+    {
+      "id": 5,
+      "mobile": "+919094662144",
+      "username": "Amal S",
+      "place": "Aluva",
+      "profile": "https://i.postimg.cc/RFm2D5dh/users.jpg",
+      "email": "amals@gmail.com",
+      "address": "Lockman Falls pin:54548"
+    },
+    {
+      "id": 6,
+      "mobile": "+919043558692",
+      "username": "Akhil P",
+      "place": "Alappuzha",
+      "profile": "https://i.postimg.cc/vBdL7Gzq/user-sign-icon-person-symbol-human-avatar-vector-12693195.jpg",
+      "email": "akhilp123@gmail.com",
+      "address": "Water Hills pin: 904322"
+    }
+  ]
+}
